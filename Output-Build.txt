@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Farm, Configuration: Debug Any CPU ------
+1>Farm -> C:\Users\User\source\repos\Farm\bin\Debug\netcoreapp3.1\Farm.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
